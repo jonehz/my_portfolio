@@ -26,7 +26,7 @@ export default function Hero() {
           </a>
 
           <a
-            href="/portfolio/public/Phan Ngọc Vương CV.pdf"
+            href="/Phan Ngọc Vương CV.pdf"
             download
             className="rounded-lg border border-gray-600 px-6 py-3 font-medium transition hover:border-white"
           >
